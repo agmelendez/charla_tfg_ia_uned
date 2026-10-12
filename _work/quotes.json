@@ -1,0 +1,589 @@
+[
+{
+"id": "pol-macro",
+"src": "politica",
+"text": "propone un nivel macro o mundial de gobernanza de la IA"
+},
+{
+"id": "pol-meso",
+"src": "politica",
+"text": "que establece un nivel meso de gobernanza de la IA para el país"
+},
+{
+"id": "pol-micro",
+"src": "politica",
+"text": "se sustenta desde un nivel micro de gobernanza de la IA que, como institución del sector público, debe establecer"
+},
+{
+"id": "pol-gob",
+"src": "politica",
+"text": "Es la decisión organizacional de cómo asegurar el empleo, adopción y desarrollo de la IA en beneficio de sus fines y objetivos"
+},
+{
+"id": "pol-integridad-1",
+"src": "politica",
+"text": "reconociendo por referenciación y declaración explícitamente cualquier apoyo, asesoría o asistencia de IA"
+},
+{
+"id": "pol-integridad-2",
+"src": "politica",
+"text": "el engaño sobre la autoría es considerado una práctica ilícita, antiética y falta a la integridad académica"
+},
+{
+"id": "pol-supervision",
+"src": "politica",
+"text": "La supervisión y toma de decisiones humanas deben mantenerse en todas las etapas de empleo, adopción o desarrollo de IA"
+},
+{
+"id": "pol-transparencia",
+"src": "politica",
+"text": "Toda persona debe declarar explícitamente el uso de herramientas de IA y función, en trabajos profesionales y académicos"
+},
+{
+"id": "pol-pensamiento",
+"src": "politica",
+"text": "El pensamiento crítico profesional y estudiantil debe fomentarse con el uso, adopción y desarrollo de IA"
+},
+{
+"id": "pol-datos",
+"src": "politica",
+"text": "Los principios de confidencialidad, integridad y disponibilidad para la seguridad y protección de datos personales e institucionales deben asegurarse"
+},
+{
+"id": "pol-ampliacion",
+"src": "politica",
+"text": "Utilizar la IA como una herramienta que complemente y amplifique las capacidades humanas, no como un reemplazo"
+},
+{
+"id": "pol-rediia",
+"src": "politica",
+"text": "se propone la creación de la Red Institucional de Inteligencia Artificial (RedIIA), una red flexible y adaptativa que sustituye el concepto de la típica estructura rígida organizativa de un programa especializado en el tema"
+},
+{
+"id": "pol-holocracia",
+"src": "politica",
+"text": "necesita de la integración progresiva de modelos de holocracia y redarquía, que promueven formas organizacionales ágiles, colaborativas e innovadoras"
+},
+{
+"id": "pol-guias",
+"src": "politica",
+"text": "Las guías o protocolos mencionados no sustituirán a la política institucional, sino que la operacionalizarán en cada función universitaria"
+},
+{
+"id": "pol-aprob",
+"src": "politica",
+"text": "Aprobada por el Consejo Universitario en sesión ordinaria 3088-2025, Artículo IV, inciso 7), celebrada el 04 de setiembre del 2025."
+},
+{
+"id": "pol-revision",
+"src": "politica",
+"text": "La política será revisada cada cinco años, a partir de su aprobación"
+},
+{
+"id": "pol-declara-ia",
+"src": "politica",
+"text": "se hace la declaración y referencia de que la formulación de esta política ha hecho uso de las herramientas analíticas"
+},
+{
+"id": "pol-ciclo",
+"src": "politica",
+"text": "Todas las etapas posibles de uso, adopción o desarrollo de alguna IA"
+},
+{
+"id": "pol-rafts",
+"src": "politica",
+"text": "se integra en esta política el modelo sugerido en el marco regulatorio ético de IA conocido como RAFTS"
+},
+{
+"id": "pol-erasmus",
+"src": "politica",
+"text": "Marco Regulatorio para el Uso Ético de la Inteligencia Artificial en la Educación Universitaria, producto del Proyecto Erasmus+"
+},
+{
+"id": "pol-conre",
+"src": "politica",
+"text": "aprueba las Orientaciones Generales de Uso de la Inteligencia Artificial de la UNED; primera decisión institucional con que se ha orientado el empleo de la IA en la UNED"
+},
+{
+"id": "pol-cu",
+"src": "politica",
+"text": "Acuerdo del Consejo Universitario (ref. CU-2024-222) y de la Comisión de Políticas de Desarrollo Académico (ref. CPDA-2024- 051)"
+},
+{
+"id": "pol-datospers",
+"src": "politica",
+"text": "Reglamento para el Tratamiento de Datos Personales en la UNED aprobado por el Consejo Universitario (sesión extraordinaria 3016- 2024, Artículo V, inciso 2), celebrada el 25 de abril del 2024)"
+},
+{
+"id": "pol-conare",
+"src": "politica",
+"text": "Hoja de Ruta de Transformación Digital de CONARE, aprobada en abril de 2024 (CNR-265-2024)"
+},
+{
+"id": "pol-enia",
+"src": "politica",
+"text": "Estrategia Nacional de Inteligencia Artificial de Costa Rica (ENIA), presentada en octubre, 2024 por el Ministerio de Ciencia, Tecnología y Telecomunicaciones"
+},
+{
+"id": "red-estab",
+"src": "rediia",
+"text": "fue establecida por la Política Institucional de Inteligencia Artificial en la UNED, aprobada por el Consejo Universitario en setiembre del 2025 (acuerdos CU-2025-385a y CU-2025-431a) como parte del modelo de gobernanza distribuida"
+},
+{
+"id": "red-consultivo",
+"src": "rediia",
+"text": "La RedIIA se concibe como una red institucional de carácter consultivo, recomendatorio y articulador sobre la IA en la UNED."
+},
+{
+"id": "red-sinestructura",
+"src": "rediia",
+"text": "sin que ello implique constituir una estructura administrativa permanente"
+},
+{
+"id": "red-constitucion",
+"src": "rediia",
+"text": "la red se constituyó en abril de 2026. La primera sesión de trabajo se llevó a cabo el 6 de mayo de 2026."
+},
+{
+"id": "red-noobligatorio",
+"src": "rediia",
+"text": "Estos instrumentos no producirán efectos obligatorios por sí mismos."
+},
+{
+"id": "red-ejecucion",
+"src": "rediia",
+"text": "La ejecución sustantiva, la priorización final, la aprobación y la adopción de decisiones corresponderán a las Vicerrectorías, dependencias y autoridades competentes."
+},
+{
+"id": "red-sandbox",
+"src": "rediia",
+"text": "Propuesta del Nodo “Sandbox institucional de IA” y su manual operativo."
+},
+{
+"id": "red-informe",
+"src": "rediia",
+"text": "Informe anual sobre productos, articulaciones generadas, duplicidades evitadas, recomendaciones emitidas y adoptadas, riesgos identificados, participación, sostenibilidad y aprendizajes."
+},
+{
+"id": "red-cetic",
+"src": "rediia",
+"text": "Nombrar a esa persona líder de la RedIIA como invitada permanente en la Comisión Estratégica de Tecnología de Información y Comunicaciones (CETIC)"
+},
+{
+"id": "red-nodos",
+"src": "rediia",
+"text": "RedIIA habilitará nodos permanentes y nodos temporales de proyectos en IA."
+},
+{
+"id": "mar-alcance",
+"src": "marco",
+"text": "No sustituye reglamentos formales, procedimientos disciplinarios ni normativa vigente"
+},
+{
+"id": "mar-irrenunciables",
+"src": "marco",
+"text": "la mediación docente, el juicio académico, la responsabilidad profesional y la agencia del estudiantado son irrenunciables"
+},
+{
+"id": "mar-deberá",
+"src": "marco",
+"text": "La expresión “deberá” se emplea cuando se hace referencia a condiciones necesarias para resguardar la integridad académica, la protección de datos, la transparencia, la accesibilidad, la mediación pedagógica o el debido proceso."
+},
+{
+"id": "mar-pertinente",
+"src": "marco",
+"text": "la inteligencia artificial solo será pedagógicamente pertinente cuando contribuya a ampliar, profundizar o apoyar el aprendizaje sin sustituir la reflexión, la argumentación, la toma de decisiones, la interacción significativa ni la responsabilidad intelectual de las personas"
+},
+{
+"id": "mar-transversal",
+"src": "marco",
+"text": "Cuando exista tensión entre eficiencia tecnológica y valor pedagógico, deberá prevalecer la protección del aprendizaje significativo, la integridad académica, la privacidad, la accesibilidad, la mediación docente y la responsabilidad humana."
+},
+{
+"id": "mar-nousar",
+"src": "marco",
+"text": "Este marco no parte de la idea de que la inteligencia artificial deba usarse siempre; por el contrario, permite decidir cuándo usarla, cuándo restringirla y cuándo evitarla."
+},
+{
+"id": "mar-responsabilidad",
+"src": "marco",
+"text": "Ninguna herramienta tecnológica exonera a las personas usuarias de la responsabilidad sobre la veracidad, pertinencia, ética, autoría, calidad y efectos del producto final."
+},
+{
+"id": "mar-clasif",
+"src": "marco",
+"text": "La decisión sobre si un uso es permitido, condicionado o no permitido deberá considerar, como mínimo, el objetivo de aprendizaje, el grado de intervención de la herramienta, la autoría esperada, el tipo de evidencia, el riesgo para la privacidad, el impacto en la integridad académica y el nivel de trazabilidad requerido"
+},
+{
+"id": "mar-declarar",
+"src": "marco",
+"text": "Toda utilización de inteligencia artificial generativa que incida de manera relevante o sustantiva en ideas, estructura, análisis, ejemplos, citas, traducción sustantiva, imágenes, audio, video, código o presentación final deberá declararse de forma expresa."
+},
+{
+"id": "mar-ortografia",
+"src": "marco",
+"text": "El uso de herramientas de corrección ortográfica o gramatical equivalente a funciones ordinarias de procesadores de texto podrá regirse por lo dispuesto en cada asignatura o actividad, sin requerir necesariamente declaración explícita."
+},
+{
+"id": "mar-cualitativo",
+"src": "marco",
+"text": "No se requerirá una cuantificación porcentual, salvo que la asignatura lo establezca expresamente por razones pedagógicas o evaluativas."
+},
+{
+"id": "mar-detectores",
+"src": "marco",
+"text": "pueden emplearse como apoyos complementarios, pero no como criterio único para calificar, sancionar o inferir fraude académico"
+},
+{
+"id": "mar-sancion",
+"src": "marco",
+"text": "Ninguna sanción deberá aplicarse sin análisis humano, diálogo con la persona estudiante, revisión contextual y documentación clara del proceso."
+},
+{
+"id": "mar-debido",
+"src": "marco",
+"text": "La persona estudiante tendrá derecho a ser escuchada y presentar pruebas. Ninguna resolución deberá basarse exclusivamente en detectores, porcentajes, señales automatizadas o presunciones tecnológicas."
+},
+{
+"id": "mar-clausula",
+"src": "marco",
+"text": "En esta asignatura, el uso de inteligencia artificial podrá permitirse, restringirse o no autorizarse según las condiciones expresamente definidas en cada actividad"
+},
+{
+"id": "mar-indicios",
+"src": "marco",
+"text": "pueden constituir indicios para revisión académica contextual, no presunciones automáticas de fraude"
+},
+{
+"id": "mar-marcas",
+"src": "marco",
+"text": "Se evitará, en lo posible, el uso de marcas comerciales en el cuerpo del documento."
+},
+{
+"id": "mar-ejemplo-no-dependencia",
+"src": "marco",
+"text": "deberá hacerse como ejemplo y no como dependencia tecnológica permanente"
+},
+{
+"id": "mar-doc",
+"src": "marco",
+"text": "Su alcance incluye asignaturas regulares, programas, actividades formativas y cursos de extensión"
+},
+{
+"id": "est-nolimitar",
+"src": "guia_est",
+"text": "La guía no pretende limitar el aprendizaje ni prohibir todo uso de inteligencia artificial."
+},
+{
+"id": "est-principio",
+"src": "guia_est",
+"text": "la inteligencia artificial adquiere sentido pedagógico cuando fortalece el aprendizaje auténtico, la curiosidad intelectual, la creatividad, la revisión crítica de información, la autoría responsable y la construcción significativa del conocimiento"
+},
+{
+"id": "est-contrastar",
+"src": "guia_est",
+"text": "Contrastar respuestas generadas por inteligencia artificial con fuentes confiables, materiales de la asignatura y criterio propio, identificando errores, sesgos, simplificaciones o limitaciones."
+},
+{
+"id": "est-citas",
+"src": "guia_est",
+"text": "Incluir citas, datos, referencias, resultados, fuentes o evidencias de trabajo de campo inexistentes, imprecisas, no verificables o atribuidas incorrectamente."
+},
+{
+"id": "est-datos",
+"src": "guia_est",
+"text": "Ingresar datos personales, evaluaciones, producciones académicas identificables, documentación universitaria protegida, casos sensibles o información confidencial en servicios externos no evaluados por las instancias competentes."
+},
+{
+"id": "est-rojo",
+"src": "guia_est",
+"text": "No deben realizarse porque comprometen la autoría, la integridad académica, la privacidad o la evaluación del aprendizaje."
+},
+{
+"id": "est-tramite",
+"src": "guia_est",
+"text": "La declaración no debe entenderse como un trámite mecánico, sino como una forma de transparentar el proceso de aprendizaje."
+},
+{
+"id": "est-aceptar",
+"src": "guia_est",
+"text": "¿Qué aceptó, qué modificó, qué descartó y por qué tomó esas decisiones después de revisar la respuesta generada?"
+},
+{
+"id": "est-errores",
+"src": "guia_est",
+"text": "¿Qué errores, sesgos, limitaciones, simplificaciones o vacíos detectó, y cómo los corrigió, contrastó o descartó?"
+},
+{
+"id": "est-explicar",
+"src": "guia_est",
+"text": "¿Puedo explicar o justificar esta respuesta ante la persona profesora, de forma oral o escrita, si la actividad lo solicita?"
+},
+{
+"id": "est-noaceptar",
+"src": "guia_est",
+"text": "Estudiar con apoyo de inteligencia artificial no significa aceptar automáticamente sus respuestas."
+},
+{
+"id": "est-duda",
+"src": "guia_est",
+"text": "Ante cualquier duda, la persona estudiante deberá revisar la consigna correspondiente o consultar a la persona profesora."
+},
+{
+"id": "est-proceso",
+"src": "guia_est",
+"text": "¿Mi trabajo refleja un proceso de estudio, revisión y toma de decisiones, y no solo un resultado final?"
+},
+{
+"id": "pro-oraculo",
+"src": "proifed",
+"text": "Concebimos la IA no como un oráculo infalible, sino como un conjunto de herramientas probabilísticas que amplifican la creatividad humana"
+},
+{
+"id": "pro-asistencia",
+"src": "proifed",
+"text": "será atribuida como “asistencia computacional”, descrita en la sección de metodología o agradecimientos, y validada mediante revisión humana especializada"
+},
+{
+"id": "pro-indicadores",
+"src": "proifed",
+"text": "se emplearán como indicadores, no como jueces absolutos"
+},
+{
+"id": "pro-fair",
+"src": "proifed",
+"text": "Adoptamos el modelo de gobernanza de datos FAIR (Findable, Accessible, Interoperable, Reusable) y exigimos mecanismos auditables de explicabilidad (XAI) para cada sistema implementado."
+},
+{
+"id": "pro-vivo",
+"src": "proifed",
+"text": "este protocolo se concibe como un instrumento vivo que se actualiza a través de un mecanismo de revisión semestral"
+},
+{
+"id": "pro-minimizacion",
+"src": "proifed",
+"text": "se fomentará la práctica de “minimización de datos” en la preparación de conjuntos de entrenamiento, a fin de evitar la captura de información innecesaria"
+},
+{
+"id": "pro-nota",
+"src": "proifed",
+"text": "Este documento está en concordancia del acuerdo tomado por el Consejo Universitario en sesión ordinaria 3088-2025"
+},
+{
+"id": "eu-declarar",
+"src": "euned_gus",
+"text": "Declarar que se usó inteligencia artificial no acarrea ninguna consecuencia negativa. Lo que compromete la integridad del trabajo editorial es ocultarlo."
+},
+{
+"id": "eu-material",
+"src": "euned_gus",
+"text": "Ante la duda, se decide por el tipo de material y no por la tarea que se quiere hacer."
+},
+{
+"id": "eu-sesion",
+"src": "euned_gus",
+"text": "Esa garantía depende por completo del inicio de sesión."
+},
+{
+"id": "eu-cuenta",
+"src": "euned_gus",
+"text": "La misma herramienta, usada con una cuenta personal o desde la versión pública y gratuita, no ofrece esa protección y el material ingresado puede emplearse para entrenamiento."
+},
+{
+"id": "eu-detectores",
+"src": "euned_gus",
+"text": "este protocolo no utiliza programas que dicen detectar si un texto fue escrito con inteligencia artificial, porque no son confiables y suelen señalar como sospechosos textos escritos por personas",
+"ci": true
+},
+{
+"id": "eu-autoridad",
+"src": "informe_euned",
+"text": "La línea que separa el uso permitido del uso no permitido no es la complejidad de la tarea, sino si la inteligencia artificial recibe autoridad editorial."
+},
+{
+"id": "eu-tridim",
+"src": "informe_euned",
+"text": "El nivel de control exigido aumenta con cualquiera de las tres dimensiones."
+},
+{
+"id": "eu-autonomia",
+"src": "informe_euned",
+"text": "Consulta puntual → Generación de un resultado → Uso de herramientas o búsqueda → Agente con permisos para ejecutar acciones de varios pasos."
+},
+{
+"id": "eu-concreta",
+"src": "euned_gus",
+"text": "Se pide una respuesta concreta y no una fórmula general",
+"ci": true
+},
+{
+"id": "chat-supervisar",
+"src": "chatgpt",
+"text": "Consiste en saber cuándo conversar, cuándo delegar y cómo supervisar el resultado."
+},
+{
+"id": "dec-claridad",
+"src": "dec",
+"text": "Students are not asking for less rigour; they are asking for clarity."
+},
+{
+"id": "pol-equidad",
+"src": "politica",
+"text": "El acceso equitativo e igualitario a la IA debe promoverse sin discriminación alguna para aprovechar sus beneficios"
+},
+{
+"id": "pol-sost",
+"src": "politica",
+"text": "La viabilidad económica de proyectos educativos, de investigación, de extensión, estudiantiles y de una ágil gestión administrativa debe garantizarse"
+},
+{
+"id": "pol-autonomia",
+"src": "politica",
+"text": "Para impulsar procesos educativos y científicos de vanguardia en el uso de la IA como tecnología emergente."
+},
+{
+"id": "pol-creatividad",
+"src": "politica",
+"text": "Fomentar la creatividad humana en la solución de problemas y aprovechamiento de oportunidades mediante el uso, la adopción y el desarrollo adecuado de la IA."
+},
+{
+"id": "rafts-resp",
+"src": "politica",
+"text": "El compromiso de tomar decisiones éticas y actuar de acuerdo con principios morales y de integridad."
+},
+{
+"id": "rafts-acc",
+"src": "politica",
+"text": "La obligación de responder por las acciones y resultados derivados de la implementación de sistemas o políticas"
+},
+{
+"id": "rafts-fair",
+"src": "politica",
+"text": "La garantía de que las decisiones y procesos sean justos, imparciales e inclusivos, evitando cualquier forma de sesgo o discriminación"
+},
+{
+"id": "rafts-trans",
+"src": "politica",
+"text": "El asegurar que los procesos, datos y criterios de decisión sean visibles, comprensibles y accesibles para todas las personas interesadas."
+},
+{
+"id": "rafts-sost",
+"src": "politica",
+"text": "El diseño de soluciones y políticas que sean viables a largo plazo"
+},
+{
+"id": "pol-c1",
+"src": "politica",
+"text": "Definir propósitos éticos desde el inicio"
+},
+{
+"id": "pol-c2",
+"src": "politica",
+"text": "Considerar impactos potenciales en derechos humanos"
+},
+{
+"id": "pol-c3",
+"src": "politica",
+"text": "Implementar “ética desde el diseño”"
+},
+{
+"id": "pol-c4",
+"src": "politica",
+"text": "Verificar sesgos antes de implementar"
+},
+{
+"id": "pol-c5",
+"src": "politica",
+"text": "Establecer mecanismos de monitoreo continuo."
+},
+{
+"id": "pol-c6",
+"src": "politica",
+"text": "Auditar regularmente el desempeño y los impactos"
+},
+{
+"id": "pol-c7",
+"src": "politica",
+"text": "Actualizar sistemas para corregir problemas identificados"
+},
+{
+"id": "pol-c8",
+"src": "politica",
+"text": "Planificar el fin de vida de sistemas obsoletos"
+},
+{
+"id": "pol-c9",
+"src": "politica",
+"text": "Asegurar la preservación o eliminación ética de datos"
+},
+{
+"id": "mar-listacerrada",
+"src": "marco",
+"text": "no debe entenderse como una lista cerrada"
+},
+{
+"id": "red-nodogestion",
+"src": "rediia",
+"text": "establecer el nodo núcleo articulador y el nodo de gestión, los enlaces y el mecanismo de activación de nodos temporales de proyectos en IA"
+},
+{
+"id": "est-c1",
+"src": "guia_est",
+"text": "¿Revisé si la consigna permitía, condicionaba o no autorizaba el uso de inteligencia artificial?"
+},
+{
+"id": "est-c3",
+"src": "guia_est",
+"text": "¿Puedo distinguir qué parte corresponde a mi elaboración personal y qué parte recibió apoyo de inteligencia artificial?"
+},
+{
+"id": "est-c4",
+"src": "guia_est",
+"text": "¿Verifiqué la información con materiales de la asignatura y fuentes confiables?"
+},
+{
+"id": "est-c5",
+"src": "guia_est",
+"text": "¿Identifiqué al menos un error, sesgo, simplificación o limitación de la respuesta generada, cuando utilicé inteligencia artificial de forma relevante?"
+},
+{
+"id": "est-c6",
+"src": "guia_est",
+"text": "¿Declaré el uso de inteligencia artificial con transparencia cuando influyó de manera relevante o sustantiva en mi trabajo?"
+},
+{
+"id": "est-c7",
+"src": "guia_est",
+"text": "¿Mi trabajo conserva mi autoría y evidencia comprensión, análisis y aprendizaje propio?"
+},
+{
+"id": "est-c9",
+"src": "guia_est",
+"text": "¿Puedo mostrar cómo mejoró mi borrador o mi idea inicial después de revisar críticamente la respuesta de la herramienta?"
+},
+{
+"id": "est-c10",
+"src": "guia_est",
+"text": "¿Evité ingresar datos personales, producciones académicas identificables, información confidencial o documentación universitaria protegida en servicios externos no evaluados por las instancias competentes?"
+},
+{
+"id": "pro-consent",
+"src": "proifed",
+"text": "los protocolos de consentimiento informado incluirán cláusulas explícitas sobre el uso de algoritmos inteligentes y el tratamiento de la información derivada"
+},
+{
+"id": "mar-evidencias",
+"src": "marco",
+"text": "La situación deberá registrarse mediante evidencias objetivas y pertinentes"
+},
+{
+"id": "mar-formativas",
+"src": "marco",
+"text": "podrán aplicarse medidas formativas"
+},
+{
+"id": "mar-rector",
+"src": "marco",
+"text": "El objetivo formativo es orientar primero y remitir a procesos disciplinarios únicamente cuando corresponda conforme al debido proceso."
+}
+]
